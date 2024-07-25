@@ -1,10 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using MyNewWebAPI.Models;
-using Microsoft.OpenApi.Models;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
